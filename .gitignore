@@ -41,3 +41,6 @@ dist/
 
 # MacOS system files
 .DS_Store
+
+# data files
+data/
