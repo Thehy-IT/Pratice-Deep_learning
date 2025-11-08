@@ -22,7 +22,7 @@ Pratice-Deep_learning/
 ├── 04-Transformers/                # Các mô hình Transformer
 ├── datasets/                       # Nơi lưu trữ các bộ dữ liệu nhỏ
 ├── utils/                          # Các hàm tiện ích dùng chung
-└── README.md                       # Tệp giới thiệu 
+└── README.md                       # Tệp giới thiệu này
 ```
 
 ## Bắt đầu
