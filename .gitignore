@@ -39,9 +39,7 @@ dist/
 # SQLite database
 *.sqlite3
 
-# MacOS system files
-.DS_Store
-
 # data files
 data/
 runs/
+results/
