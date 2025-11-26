@@ -46,4 +46,4 @@ Mọi ý kiến đóng góp, báo lỗi hoặc cải tiến đều được chà
 
 ## Giấy phép
 
-Dự án này được cấp phép theo Giấy phép MIT.
+Dự án này được cấp phép theo [MIT License](LICENSE).
